@@ -1,7 +1,9 @@
 1) 
 
 Build and run the app: 
+
 docker build -t viaduct .
+
 docker run -p 3000:3000 viaduct
 
 2) 
